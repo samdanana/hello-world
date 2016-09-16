@@ -1,3 +1,3 @@
 # hello-world
 
-Salutare la tori. Fecem oprima proba. Be blessed!
+Salutare la toti. Fecem oprima proba. Be blessed!
